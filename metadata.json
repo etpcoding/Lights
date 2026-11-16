@@ -1,0 +1,6 @@
+{
+  "name": "LumenNet Art-Net Lighting Console",
+  "description": "Professional web-based DMX lighting desk with Art-Net UDP network broadcasting, multi-client real-time synchronization, 2D/3D visualizer, scene pads, and cue list playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
